@@ -34,6 +34,6 @@ The assignment consists of 18 tasks that require you to manipulate and analyze t
 18. **Customer Traffic**: Determine which day of the week the store receives the most customers.
 
 ## Dependencies
-Python 3.x
-Pandas
-Jupyter Notebook
+1. Python 3.x
+2. Pandas
+3. Jupyter Notebook
